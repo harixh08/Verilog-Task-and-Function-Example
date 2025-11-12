@@ -79,18 +79,7 @@ endmodule
 ```
 ### 4-bit Ripple Carry Adder Simulation Output 
 
------
------
------
------
-------- Paste the output here----------
-
-
-
-
-
-
-
+<img width="1253" height="645" alt="image" src="https://github.com/user-attachments/assets/bc2e4625-2533-49fd-be4a-1e8894fc97ec" />
 
 
 ### **4-bit Ripple Counter using Function**
@@ -132,16 +121,8 @@ module tb_ripple_counter_func;
 endmodule
 ```
 ### 4-bit Ripple Counter Simulation output 
------
------
------
------
-------- Paste the output here----------
 
-
-
-
-
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/535316fc-722e-46c4-b21c-b429793bf9c4" />
 
 
 ### Result
